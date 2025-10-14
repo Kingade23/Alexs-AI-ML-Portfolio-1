@@ -8,7 +8,7 @@ This repository showcases selected projects I’ve built to demonstrate practica
 ## 👨‍💻 About Me
 
 Hi, I'm **Abdulaziz Alexander Abdulganiyu**, a passionate **AI and Machine Learning specialist** with a strong foundation in **mathematics, data analysis, and intelligent systems design**.  
-I enjoy transforming data into insight and building AI systems that solve real-world problems — from text understanding to intelligent automation. though im open to learning because im yet to be perfect
+I enjoy transforming data into insight and building AI systems that solve real-world problems — from text understanding to intelligent automation. though I'm open to learning because I'm yet to be perfect
 
 - 🎓 Background: Mathematics 
 - 🧩 Focus Areas: Machine Learning, NLP, Computer Vision, Data Science  
