@@ -1,4 +1,4 @@
-# coding my project
+# coding my USD Forecast project (code intro)
 # usd_forecast_app.py
 import streamlit as st
 import pandas as pd
@@ -11,7 +11,7 @@ import plotly.graph_objects as go
 from datetime import datetime, timedelta
 
 # ------------------------------
-# DATA FETCH FUNCTION for project
+# DATA FETCH FUNCTION for my project
 # ------------------------------
 def fetch_exchange_data(base="USD", target="NGN", start="2020-01-01", end=None):
     if end is None:
@@ -101,3 +101,4 @@ if st.button("Fetch and Predict"):
                            file_name="usd_forecast.csv")
 
 st.caption("This is an educational AI forecast demo using Linear Regression on historical exchange rate data.")
+
