@@ -82,6 +82,17 @@ Install Dependencies
 pip install -r requirements.txt
 
 
+MY EXCHANGE RATE PREDICTOR
+
+My project is a simple financial data analysis tool that predicts the next day’s exchange rate between the U.S. dollar (USD) and the Nigerian naira (NGN).
+
+I used Python for the implementation, pandas for handling the dataset, scikit-learn’s Linear Regression model for prediction, and matplotlib to visualize the trend.
+
+The program takes a small set of historical exchange rate data, trains a model to understand the relationship between time (days) and rates, and then predicts the next value.
+
+This project demonstrates my understanding of data preprocessing, regression modeling, and visualization, as well as how basic machine learning can be applied to financial forecasting in real life.”
+
+
 
 
 
